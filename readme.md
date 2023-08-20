@@ -2,7 +2,7 @@
 **Neuroevolution game assignment.**  
 **Fall 2021 - Computer Intelligence.**  
 
-- used the evolutionary algorithm for training a neural network
+- Used an evolutionary algorithm for training a neural network
 - Implementing Roulette wheel, SUS, and Q-tournament algorithms for population selection.
 - Generating new population using cross-over and mutation
   
